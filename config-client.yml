@@ -2,4 +2,7 @@ info:
   profile: default
   from: git2
 test: aaaa
-
+msg:
+  content: hello
+  length: 5
+  
